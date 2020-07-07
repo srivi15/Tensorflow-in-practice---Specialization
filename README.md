@@ -1,2 +1,2 @@
 # Tensorflow-in-practice---Specialization
-This repository contains the code that I do on TensorFlow in Practice specialization course.
+This repository contains the projects and assignments that I do on TensorFlow in Practice specialization course offered by deeplearning.ai and Tensorflow team.
